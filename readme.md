@@ -9,7 +9,7 @@ Um app Flutter moderno e animado para explorar livros, com suporte a favoritos, 
 1. **Clone o repositório:**
 
 ```bash
-git clone <url-do-repositorio>
+git clone <[url-do-repositorio](https://github.com/kpierroti/booklist)>
 cd biblioteca_flutter
 ```
 
